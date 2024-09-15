@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\Controllers",
+    "\\Data",
+    "\\Interface",
+    "\\Migrations",
+    "\\Models",
+    "\\Properties",
+    "\\Repository"
+  ],
+  "SelectedNode": "\\Controllers\\InventoryController.cs",
+  "PreviewInSolutionExplorer": false
+}

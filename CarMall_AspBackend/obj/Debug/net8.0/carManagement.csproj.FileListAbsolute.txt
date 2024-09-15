@@ -1,0 +1,384 @@
+G:\DEMO\Dotnet\carManagement\carManagement\obj\Debug\net8.0\carManagement.csproj.AssemblyReference.cache
+G:\DEMO\Dotnet\carManagement\carManagement\obj\Debug\net8.0\carManagement.GeneratedMSBuildEditorConfig.editorconfig
+G:\DEMO\Dotnet\carManagement\carManagement\obj\Debug\net8.0\carManagement.AssemblyInfoInputs.cache
+G:\DEMO\Dotnet\carManagement\carManagement\obj\Debug\net8.0\carManagement.AssemblyInfo.cs
+G:\DEMO\Dotnet\carManagement\carManagement\obj\Debug\net8.0\carManagement.csproj.CoreCompileInputs.cache
+G:\DEMO\Dotnet\carManagement\carManagement\obj\Debug\net8.0\carManagement.MvcApplicationPartsAssemblyInfo.cs
+G:\DEMO\Dotnet\carManagement\carManagement\obj\Debug\net8.0\carManagement.MvcApplicationPartsAssemblyInfo.cache
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\appsettings.Development.json
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\appsettings.json
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\carManagement.exe
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\carManagement.deps.json
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\carManagement.runtimeconfig.json
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\carManagement.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\carManagement.pdb
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Azure.Core.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Azure.Identity.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Humanizer.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\System.CodeDom.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\System.Memory.Data.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\DEMO\Dotnet\carManagement\carManagement\obj\Debug\net8.0\staticwebassets.build.json
+G:\DEMO\Dotnet\carManagement\carManagement\obj\Debug\net8.0\staticwebassets.development.json
+G:\DEMO\Dotnet\carManagement\carManagement\obj\Debug\net8.0\staticwebassets\msbuild.carManagement.Microsoft.AspNetCore.StaticWebAssets.props
+G:\DEMO\Dotnet\carManagement\carManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.carManagement.props
+G:\DEMO\Dotnet\carManagement\carManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.carManagement.props
+G:\DEMO\Dotnet\carManagement\carManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.carManagement.props
+G:\DEMO\Dotnet\carManagement\carManagement\obj\Debug\net8.0\staticwebassets.pack.json
+G:\DEMO\Dotnet\carManagement\carManagement\obj\Debug\net8.0\scopedcss\bundle\carManagement.styles.css
+G:\DEMO\Dotnet\carManagement\carManagement\obj\Debug\net8.0\carManag.A7AB4E39.Up2Date
+G:\DEMO\Dotnet\carManagement\carManagement\obj\Debug\net8.0\carManagement.dll
+G:\DEMO\Dotnet\carManagement\carManagement\obj\Debug\net8.0\refint\carManagement.dll
+G:\DEMO\Dotnet\carManagement\carManagement\obj\Debug\net8.0\carManagement.pdb
+G:\DEMO\Dotnet\carManagement\carManagement\obj\Debug\net8.0\carManagement.genruntimeconfig.cache
+G:\DEMO\Dotnet\carManagement\carManagement\obj\Debug\net8.0\ref\carManagement.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\MySqlConnector.dll
+G:\DEMO\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\appsettings.json
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\carManagement.exe
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\carManagement.deps.json
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\carManagement.runtimeconfig.json
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\carManagement.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\carManagement.pdb
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Humanizer.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\obj\Debug\net8.0\carManagement.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\obj\Debug\net8.0\carManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\obj\Debug\net8.0\carManagement.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\obj\Debug\net8.0\carManagement.AssemblyInfo.cs
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\obj\Debug\net8.0\carManagement.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\obj\Debug\net8.0\carManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\obj\Debug\net8.0\carManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\obj\Debug\net8.0\staticwebassets\msbuild.carManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.carManagement.props
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.carManagement.props
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.carManagement.props
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\obj\Debug\net8.0\scopedcss\bundle\carManagement.styles.css
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\obj\Debug\net8.0\carManag.A7AB4E39.Up2Date
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\obj\Debug\net8.0\carManagement.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\obj\Debug\net8.0\refint\carManagement.dll
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\obj\Debug\net8.0\carManagement.pdb
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\obj\Debug\net8.0\carManagement.genruntimeconfig.cache
+C:\Users\hp\Desktop\Dotnet\carManagement\carManagement\obj\Debug\net8.0\ref\carManagement.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\appsettings.Development.json
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\appsettings.json
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\carManagement.exe
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\carManagement.deps.json
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\carManagement.runtimeconfig.json
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\carManagement.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\carManagement.pdb
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\Google.Protobuf.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\Humanizer.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\MySql.Data.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\System.CodeDom.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\ZstdSharp.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+G:\New folder (3)\carManagement (2)\carManagement\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+G:\New folder (3)\carManagement (2)\carManagement\obj\Debug\net8.0\carManagement.csproj.AssemblyReference.cache
+G:\New folder (3)\carManagement (2)\carManagement\obj\Debug\net8.0\carManagement.GeneratedMSBuildEditorConfig.editorconfig
+G:\New folder (3)\carManagement (2)\carManagement\obj\Debug\net8.0\carManagement.AssemblyInfoInputs.cache
+G:\New folder (3)\carManagement (2)\carManagement\obj\Debug\net8.0\carManagement.AssemblyInfo.cs
+G:\New folder (3)\carManagement (2)\carManagement\obj\Debug\net8.0\carManagement.csproj.CoreCompileInputs.cache
+G:\New folder (3)\carManagement (2)\carManagement\obj\Debug\net8.0\carManagement.MvcApplicationPartsAssemblyInfo.cs
+G:\New folder (3)\carManagement (2)\carManagement\obj\Debug\net8.0\carManagement.MvcApplicationPartsAssemblyInfo.cache
+G:\New folder (3)\carManagement (2)\carManagement\obj\Debug\net8.0\staticwebassets.build.json
+G:\New folder (3)\carManagement (2)\carManagement\obj\Debug\net8.0\staticwebassets.development.json
+G:\New folder (3)\carManagement (2)\carManagement\obj\Debug\net8.0\staticwebassets\msbuild.carManagement.Microsoft.AspNetCore.StaticWebAssets.props
+G:\New folder (3)\carManagement (2)\carManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.carManagement.props
+G:\New folder (3)\carManagement (2)\carManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.carManagement.props
+G:\New folder (3)\carManagement (2)\carManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.carManagement.props
+G:\New folder (3)\carManagement (2)\carManagement\obj\Debug\net8.0\staticwebassets.pack.json
+G:\New folder (3)\carManagement (2)\carManagement\obj\Debug\net8.0\scopedcss\bundle\carManagement.styles.css
+G:\New folder (3)\carManagement (2)\carManagement\obj\Debug\net8.0\carManag.A7AB4E39.Up2Date
+G:\New folder (3)\carManagement (2)\carManagement\obj\Debug\net8.0\carManagement.dll
+G:\New folder (3)\carManagement (2)\carManagement\obj\Debug\net8.0\refint\carManagement.dll
+G:\New folder (3)\carManagement (2)\carManagement\obj\Debug\net8.0\carManagement.pdb
+G:\New folder (3)\carManagement (2)\carManagement\obj\Debug\net8.0\carManagement.genruntimeconfig.cache
+G:\New folder (3)\carManagement (2)\carManagement\obj\Debug\net8.0\ref\carManagement.dll
