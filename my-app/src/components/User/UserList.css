@@ -1,0 +1,12 @@
+.container {
+    max-width: 80%;
+    margin: auto;
+}
+
+.table td, .table th {
+    text-align: center;
+}
+
+.badge {
+    margin-right: 5px;
+}

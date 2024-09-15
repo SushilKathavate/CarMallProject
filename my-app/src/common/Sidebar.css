@@ -1,0 +1,30 @@
+.sidebar {
+    height: 100vh; /* Full viewport height */
+    width: 250px; /* Set a fixed width for the sidebar */
+    background-color: #f8f9fa; /* Background color */
+    position: fixed; /* Fixed position on the left */
+    top: 0;
+    left: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column; /* Ensures items stack vertically */
+    justify-content: flex-start; /* Align items to start */
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+}
+
+.sidebar .nav-link {
+    font-size: 18px;
+    padding: 10px 15px;
+    color: #fff;
+    text-align: left;
+}
+
+.sidebar .nav-link:hover {
+    background-color: #e9ecef;
+    border-radius: 5px;
+    color: #007bff;
+}
+
+body {
+    margin-left: 250px; /* Adjust the body's content to the right of the sidebar */
+}

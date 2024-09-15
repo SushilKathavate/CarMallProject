@@ -1,0 +1,31 @@
+.custom-carousel {
+    max-width: 800px;
+    margin: 0 auto;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.custom-carousel .carousel-inner img {
+    object-fit: cover;
+    height: 400px;
+    border-radius: 10px;
+}
+
+.custom-carousel .carousel-indicators button {
+    background-color: #007bff;
+}
+
+.custom-carousel .carousel-control-prev-icon,
+.custom-carousel .carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 50%;
+    padding: 10px;
+    width: 30px;
+    height: 30px;
+}
+
+.custom-carousel .carousel-control-prev-icon:hover,
+.custom-carousel .carousel-control-next-icon:hover {
+    background-color: rgba(0, 0, 0, 0.7);
+}

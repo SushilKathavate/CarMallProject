@@ -1,0 +1,23 @@
+.footer {
+    background-color: #343a40; /* Dark background for the footer */
+}
+
+.footer h5 {
+    color: #fff; /* White color for headings in the footer */
+}
+
+.footer p {
+    color: #fff; /* White color for paragraphs in the footer */
+}
+
+.footer .social-links a {
+    color: #fff; /* White color for social media links */
+}
+
+.footer .social-links a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+.text-center p {
+    color: #fff; /* White color for text in the center */
+}

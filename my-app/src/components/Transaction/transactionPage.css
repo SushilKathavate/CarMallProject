@@ -1,0 +1,22 @@
+.custom-modal .modal-content {
+    padding: 20px;
+    background-color: #f8f9fa; /* Light background */
+}
+
+.modal-title-transaction {
+    font-size: 1.75rem;
+    font-weight: bold;
+    color: #007bff; /* Primary color */
+}
+
+.modal-content-section {
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ddd; /* Section divider */
+}
+
+.modal-content-section h5 {
+    font-size: 1.2rem;
+    color: #343a40;
+    margin-bottom: 10px;
+}
